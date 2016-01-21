@@ -1,0 +1,28 @@
+name: BBN
+favicon: null
+layout_spectrum: 0.22295711608603597
+typography_spectrum: 0.9686581646092236
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.07914100238122046
+  lightness: 0.2505876619834453
+  saturation: 0.8673707428388298
+  rhythmicContrast: 0.5329301403835416
+purpose: []
