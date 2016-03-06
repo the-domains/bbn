@@ -2,6 +2,7 @@ name: BBN
 favicon: null
 layout_spectrum: 0.22295711608603597
 typography_spectrum: 0.9686581646092236
+title: BBN Corporation
 cta:
   domain: null
   bucket: null
