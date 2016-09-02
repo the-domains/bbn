@@ -1,7 +1,7 @@
 name: BBN
 favicon: null
-layout_spectrum: 0.22295711608603597
-typography_spectrum: 0.9686581646092236
+layout_spectrum: 0
+typography_spectrum: 1
 title: BBN Corporation
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.07914100238122046
+  brandStrength: 0
   lightness: 0.2505876619834453
   saturation: 0.8673707428388298
   rhythmicContrast: 0.5329301403835416
